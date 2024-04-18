@@ -6,7 +6,9 @@
 /* Styles for the body */
 
 body {
-	font-family: 'Courier New', monospace;
+	font-family: "Sedan", serif;
+  font-weight: 400;
+  font-style: normal;
 	color: #01011C;
 	background-color: #f8f8fc;
 }
@@ -14,7 +16,9 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .customheader5 {
-	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', 'sans-serif';
+	font-family: "Sedan", serif;
+  font-weight: 400;
+  font-style: italic;
 	color: #00004B;
 }
 
