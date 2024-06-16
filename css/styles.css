@@ -6,7 +6,8 @@
 /* Styles for the body */
 
 body {
-	font-family: "Sedan", serif;
+	 font-family: "Playwrite FR Moderne", cursive;
+  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 	color: #01011C;
@@ -16,7 +17,8 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .customheader5 {
-	font-family: "Sedan", serif;
+	font-family: "Playwrite FR Moderne", cursive;
+  font-optical-sizing: auto;
   font-weight: 400;
   font-style: italic;
 	color: #00004B;
